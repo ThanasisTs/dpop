@@ -1,0 +1,11 @@
+#!/usr/bin/bash
+python dpop.py generated_dimes_problems/100_50_4ts.yaml
+python dpop.py generated_dimes_problems/200_100_4ts.yaml
+python dpop.py generated_dimes_problems/300_150_4ts.yaml
+python dpop.py generated_dimes_problems/400_200_4ts.yaml
+python dpop.py generated_dimes_problems/500_250_4ts.yaml
+python dpop.py generated_dimes_problems/600_300_4ts.yaml
+python dpop.py generated_dimes_problems/700_350_4ts.yaml
+python dpop.py generated_dimes_problems/800_400_4ts.yaml
+python dpop.py generated_dimes_problems/900_450_4ts.yaml
+python dpop.py generated_dimes_problems/1000_500_4ts.yaml
